@@ -34,7 +34,7 @@
 `GitHub` · `VS Code` · `Google Cloud` · `Adobe Photoshop`  
 
 ---
-
+/*
 ## 🔹 Featured Projects  
 
 ### 🌐 [Portfolio Website](https://github.com/farhad-azad/portfolio)  
@@ -87,7 +87,7 @@ Centralized resource-sharing repository for **BRAC University students** (notes,
 ![snake gif](https://github.com/farhad-azad/farhad-azad/blob/output/github-contribution-grid-snake.gif)  
 
 ---
-
+*/
 ## 🔹 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-linkedin-url)  
