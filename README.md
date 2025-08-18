@@ -1,10 +1,15 @@
 # Hi, I'm Md Farhad Mahamud Azad 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F71A&lines=Code+Never+Lies%2C+Comments+Sometimes+Do)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah;"></a>
+</p>
+## <picture><img src = "https://github.com/mfarhadma/mfarhadma/blob/main/main/gif/about_me.gif" width = 50px></picture> **🔹 About Me **
 
+<picture> <img align="right" src="https://github.com/mfarhadma/mfarhadma/blob/main/gif/Right_Side.gif" width = 250px></picture>
+
+<br>
 ---
 
-## 🔹 About Me  
 - 🎓 CSE Student at **BRAC University** (ID: CSE-20301378)  
 - 🎭 **President**, BRACU Drama & Theatre Forum  
 - 🏑 **National Rollball Player** | Represented *Chittagong Division* & *CJKS* in tournaments  
