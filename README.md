@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah;"></a>
 </p>
-## <picture><img src = "https://github.com/mfarhadma/mfarhadma/blob/main/main/gif/about_me.gif" width = 50px></picture> **🔹 About Me **
+
+## <picture><img src = "https://github.com/mfarhadma/mfarhadma/blob/main/gif/about_me.gif" width = 50px></picture> **🔹 About Me **
 
 <picture> <img align="right" src="https://github.com/mfarhadma/mfarhadma/blob/main/gif/Right_Side.gif" width = 250px></picture>
 
