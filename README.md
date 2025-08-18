@@ -29,6 +29,11 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F71A&lines=Code+Never+Lies%2C+Comments+Sometimes+Do)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F71A&lines=Code+Never+Lies%2C+Comments+Sometimes+Do)](https://git.io/typing-svg)
+
+
 ## 🔹 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhad-azad&show_icons=true&theme=tokyonight)  
